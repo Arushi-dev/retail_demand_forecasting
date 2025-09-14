@@ -1,0 +1,8 @@
+Feature,Mean |SHAP value|
+SalesLag1,1430.1195
+DayOfWeek,1236.5945
+SalesLag7,756.5319
+Month,198.05702
+SalesMA7,196.16615
+Store,41.105484
+IsWeekend,0.0
